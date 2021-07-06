@@ -1,2 +1,2 @@
 # ltts_stepin
-Mini Project
+Mini Project_ Simple Calculator For Basic Mathematical Operations
