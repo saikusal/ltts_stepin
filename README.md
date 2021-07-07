@@ -36,5 +36,9 @@ PS No. |  Name               |    Features    | Issuess Raised |Issues Resolved|
 |4. | Issues in workflows | fixed them by updating the path to all files correctly
 
 
+Badges
+[![Contribution Check - Git Inspector](https://github.com/visweswar299/mini_project/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/visweswar299/mini_project/actions/workflows/gitinspector.yml)
+
+[![Code Quality - Static Code - Cppcheck](https://github.com/visweswar299/mini_project/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/visweswar299/mini_project/actions/workflows/cppcheck.yml)
 
 
