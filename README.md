@@ -37,8 +37,5 @@ PS No. |  Name               |    Features    | Issuess Raised |Issues Resolved|
 
 
 
-Badges
-[![Contribution Check - Git Inspector](https://github.com/saikusal/ltts_stepin/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/saikusal/ltts_stepin/actions/workflows/gitinspector.yml)
 
-[![Code Quality - Static Code - Cppcheck](https://github.com/saikusal/ltts_stepin/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/saikusal/ltts_stepin/actions/workflows/cppcheck.yml)
 
