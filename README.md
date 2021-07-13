@@ -35,6 +35,9 @@ PS No. |  Name               |    Features    | Issuess Raised |Issues Resolved|
 |3. | issues in running test cases | specifying correct return values for functions
 |4. | Issues in workflows | fixed them by updating the path to all files correctly
 
+<a href="https://frontend.code-inspector.com/public/user/github/saikusal">
+   <img src="https://code-inspector.com/public/badge/user/github/saikusal?style=dark" alt="code inspector badge" />
+</a>
 
 
 
