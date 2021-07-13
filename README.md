@@ -41,4 +41,4 @@ PS No. |  Name               |    Features    | Issuess Raised |Issues Resolved|
 
 [![Contribution Check - cppcheck](https://github.com/saikusal/ltts_stepin/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/saikusal/ltts_stepin/actions/workflows/cppcheck.yml)
 
-
+[![Contribution Check - code inspector](https://github.com/saikusal/ltts_stepin/actions/workflows/main.yml/badge.svg)](https://github.com/saikusal/ltts_stepin/actions/workflows/main.yml)
