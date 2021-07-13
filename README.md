@@ -43,4 +43,4 @@ PS No. |  Name               |    Features    | Issuess Raised |Issues Resolved|
 
 [![Contribution Check - code inspector](https://github.com/saikusal/ltts_stepin/actions/workflows/main.yml/badge.svg)](https://github.com/saikusal/ltts_stepin/actions/workflows/main.yml)
 
-[![Contribution Check - code inspector](https://github.com/saikusal/ltts_stepin/actions/workflows/unity.yml/badge.svg)](https://github.com/saikusal/ltts_stepin/actions/workflows/unity.yml)
+[![Contribution Check - code inspector](https://github.com/saikusal/ltts_stepin/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/saikusal/ltts_stepin/actions/workflows/inspector.yml)
