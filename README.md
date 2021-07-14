@@ -36,17 +36,16 @@ PS No. |  Name               |    Features    | Issuess Raised |Issues Resolved|
 |4. | Issues in workflows | fixed them by updating the path to all files correctly
 
 ## Badges
-| Code Inspector | Cpp Check    | Git Inspector      |
-| -------------- | ---------    | -------------      |
-| <a href="https://frontend.code-inspector.com/public/user/github/saikusal">
+ 
+ <a href="https://frontend.code-inspector.com/public/user/github/saikusal">
    <img src="https://code-inspector.com/public/badge/user/github/saikusal?style=dark" alt="code inspector badge" />
-</a> | 
+</a>  
 
 
 
-[![Contribution Check - cppcheck](https://github.com/saikusal/ltts_stepin/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/saikusal/ltts_stepin/actions/workflows/cppcheck.yml)   |
+[![Contribution Check - cppcheck](https://github.com/saikusal/ltts_stepin/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/saikusal/ltts_stepin/actions/workflows/cppcheck.yml)   
 
-|
-[![Contribution Check - code inspector](https://github.com/saikusal/ltts_stepin/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/saikusal/ltts_stepin/actions/workflows/gitinspector.yml)  |
+
+[![Contribution Check - code inspector](https://github.com/saikusal/ltts_stepin/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/saikusal/ltts_stepin/actions/workflows/gitinspector.yml)  
 
 
