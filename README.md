@@ -41,8 +41,7 @@ PS No. |  Name               |    Features    | Issuess Raised |Issues Resolved|
 
 [![Contribution Check - cppcheck](https://github.com/saikusal/ltts_stepin/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/saikusal/ltts_stepin/actions/workflows/cppcheck.yml)
 
-[![Contribution Check - code inspector](https://github.com/saikusal/ltts_stepin/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/saikusal/ltts_stepin/actions/workflows/c-cpp.yml)
 
 [![Contribution Check - code inspector](https://github.com/saikusal/ltts_stepin/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/saikusal/ltts_stepin/actions/workflows/gitinspector.yml)
 
-[![Contribution Check - CodeQuality Dynamic Check](https://github.com/saikusal/ltts_stepin/actions/workflows/CodeQuality_Dynamic.yml/badge.svg)](https://github.com/saikusal/ltts_stepin/actions/workflows/CodeQuality_Dynamic.yml)
+
